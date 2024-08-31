@@ -1,3 +1,5 @@
 # sentiment_analysis
-Sentiment analysis on customer reviews with Open AI
-This is a case study of the company ExpressLogic and sentiment analysis on their customer reviews. The current file will walk you through the steps on how to conduct the analysis with the help of open AI and gpt model.
+Sentiment analysis on customer reviews with Open AI.
+This is a case study of the company ExpressLogic and sentiment analysis on their customer reviews. The current file will walk you through the steps on how to analyze the reviews and evaluate performance with the help of open AI and GPT4 model.
+The document "Copy Project2_Alina" is a notebook with the description and code.
+THe file contains the data
